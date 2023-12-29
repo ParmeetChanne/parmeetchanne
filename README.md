@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parmeet Singh Channe</h1>
 <h3 align="center">A passionate developer from Canada, studying at York University, Toronto</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmeetchanne" alt="parmeetchanne" /></a> </p>
-
 - 🔭 I’m currently working on [FoodSecure](https://github.com/ParmeetChanne/foodsecure)
 
 - 🌱 I’m currently learning **CFI Courses**
