@@ -5,7 +5,7 @@
 
 - 📍Currently based in Toronto, Canada
 
-- 🌱 I’m currently learning **CFI Courses**
+<!-- - 🌱 I’m currently learning **CFI Courses** -->
 
 - 👨‍💻 All of my projects are available at [https://parmeetchanne.vercel.app](https://parmeetchanne.vercel.app)
 
