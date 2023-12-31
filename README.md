@@ -7,7 +7,7 @@
 
 <!-- - 🌱 I’m currently learning **CFI Courses** -->
 
-- 👨‍💻 All of my projects are available at [https://parmeetchanne.vercel.app](https://parmeetchanne.vercel.app)
+- 👨‍💻 My main projects are available here & at [https://parmeetchanne.vercel.app](https://parmeetchanne.vercel.app)
 
 - 📫 How to reach me **parmeetchanne@gmail.com**
 
