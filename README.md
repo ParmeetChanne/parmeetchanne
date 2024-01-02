@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parmeet Singh Channe</h1>
-<h3 align="center">A passionate student at York University utilizing technology to craft enduring, sustainable solutions that create a significant impact.</h3>
+<h3 align="center">A passionate student at York University utilizing technology and finance to craft enduring, sustainable solutions that create a significant impact.</h3>
 
 - 🔭 I’m currently working on [FoodSecure](https://github.com/ParmeetChanne/foodsecure)
 
