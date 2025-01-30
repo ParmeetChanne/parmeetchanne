@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Parmeet Singh Channe</h1>
-<h3 align="center">A passionate student at York University utilizing technology and finance to craft enduring, sustainable solutions that create a significant impact.</h3>
-
-- 🔭 I’m currently working on [FoodSecure](https://github.com/ParmeetChanne/foodsecure)
+<h1 align="center">Hi 👋, I'm Parmeet Channe</h1>
+<h3 align="center">A passionate student at York University interested in Entrepreneurship that creates a significant impact.</h3>
 
 - 📍Currently based in Toronto, Canada
 
 <!-- - 🌱 I’m currently learning **CFI Courses** -->
 
-- 👨‍💻 My main projects are available here & at [https://parmeetchanne.vercel.app](https://parmeetchanne.vercel.app)
+<!-- - 👨‍💻 My main projects are available here & at [https://parmeetchanne.vercel.app](https://parmeetchanne.vercel.app) -->
 
-- 📫 How to reach me **parmeetchanne@gmail.com**
+- 📫 Reach me **parmeetchanne@gmail.com**
 
-- 📄 Know about my experiences [https://parmeetchanne.vercel.app/resume](https://parmeetchanne.vercel.app/resume)
+<!-- - 📄 Know about my experiences [https://parmeetchanne.vercel.app/resume](https://parmeetchanne.vercel.app/resume) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
