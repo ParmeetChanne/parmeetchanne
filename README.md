@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parmeet Channe</h1>
-<h3 align="center">A passionate student at York University interested in Entrepreneurship that creates a significant impact.</h3>
+<h3 align="center">A student at York University interested in Entrepreneurship that creates a significant impact.</h3>
 
 - 📍Currently based in Toronto, Canada
 
